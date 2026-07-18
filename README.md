@@ -11,12 +11,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0041-first-missing-positive) |
 | [0136-single-number](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0136-single-number) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/2248-intersection-of-multiple-arrays) |
+| [2363-merge-similar-items](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/2363-merge-similar-items) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0041-first-missing-positive) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/2248-intersection-of-multiple-arrays) |
+| [2363-merge-similar-items](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/2363-merge-similar-items) |
 ## String
 |  |
 | ------- |
@@ -33,8 +35,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2248-intersection-of-multiple-arrays](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/2248-intersection-of-multiple-arrays) |
+| [2363-merge-similar-items](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/2363-merge-similar-items) |
 ## Counting
 |  |
 | ------- |
 | [2248-intersection-of-multiple-arrays](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/2248-intersection-of-multiple-arrays) |
+## Ordered Set
+|  |
+| ------- |
+| [2363-merge-similar-items](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/2363-merge-similar-items) |
 <!---LeetCode Topics End-->
