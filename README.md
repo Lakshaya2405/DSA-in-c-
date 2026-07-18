@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0014-longest-common-prefix) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0041-first-missing-positive) |
 | [0136-single-number](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0136-single-number) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/2248-intersection-of-multiple-arrays) |
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0206-reverse-linked-list) |
+## Binary Search
+|  |
+| ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 <!---LeetCode Topics End-->
