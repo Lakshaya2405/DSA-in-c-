@@ -64,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/1122-relative-sort-array) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
