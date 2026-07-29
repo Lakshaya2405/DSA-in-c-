@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0020-valid-parentheses) |
 ## Trie
 |  |
 | ------- |
@@ -76,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0088-merge-sorted-array) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
