@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0041-first-missing-positive) |
 | [0088-merge-sorted-array](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0136-single-number) |
+| [0496-next-greater-element-i](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0496-next-greater-element-i) |
 | [1122-relative-sort-array](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/1122-relative-sort-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/2248-intersection-of-multiple-arrays) |
 | [2363-merge-similar-items](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/2363-merge-similar-items) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0041-first-missing-positive) |
+| [0496-next-greater-element-i](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0496-next-greater-element-i) |
 | [1122-relative-sort-array](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/1122-relative-sort-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/2248-intersection-of-multiple-arrays) |
 | [2363-merge-similar-items](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/2363-merge-similar-items) |
@@ -81,4 +83,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
