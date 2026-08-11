@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0125-valid-palindrome) |
 ## Trie
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0125-valid-palindrome) |
 ## Stack
 |  |
 | ------- |
