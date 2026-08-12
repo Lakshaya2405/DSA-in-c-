@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0496-next-greater-element-i](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0496-next-greater-element-i) |
+| [0881-boats-to-save-people](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/1122-relative-sort-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/2248-intersection-of-multiple-arrays) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0088-merge-sorted-array) |
+| [0881-boats-to-save-people](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/1122-relative-sort-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/2248-intersection-of-multiple-arrays) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0881-boats-to-save-people](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0977-squares-of-a-sorted-array) |
 ## Stack
 |  |
@@ -104,4 +107,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0011-container-with-most-water) |
+| [0881-boats-to-save-people](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0881-boats-to-save-people) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
