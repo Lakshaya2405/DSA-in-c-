@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0326-power-of-three) |
 ## Binary Search
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0326-power-of-three) |
 ## Two Pointers
 |  |
 | ------- |
