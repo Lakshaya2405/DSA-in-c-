@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-intersection-of-multiple-arrays](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/2248-intersection-of-multiple-arrays) |
 | [2363-merge-similar-items](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/2363-merge-similar-items) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-intersection-of-multiple-arrays](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/2248-intersection-of-multiple-arrays) |
 | [2363-merge-similar-items](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/2363-merge-similar-items) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
 | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0509-fibonacci-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Search
 |  |
 | ------- |
@@ -144,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0509-fibonacci-number) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
