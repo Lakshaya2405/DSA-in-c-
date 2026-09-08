@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0349-intersection-of-two-arrays) |
+| [0633-sum-of-square-numbers](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0633-sum-of-square-numbers) |
 ## Counting Sort
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0509-fibonacci-number) |
+| [0633-sum-of-square-numbers](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0633-sum-of-square-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0633-sum-of-square-numbers](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0633-sum-of-square-numbers) |
 | [0881-boats-to-save-people](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0977-squares-of-a-sorted-array) |
 ## Stack
