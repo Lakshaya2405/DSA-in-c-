@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0198-house-robber) |
 | [0349-intersection-of-two-arrays](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0496-next-greater-element-i) |
 | [0881-boats-to-save-people](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0881-boats-to-save-people) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0041-first-missing-positive) |
 | [0349-intersection-of-two-arrays](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0496-next-greater-element-i) |
 | [1122-relative-sort-array](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/1122-relative-sort-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/2248-intersection-of-multiple-arrays) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0881-boats-to-save-people](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/1122-relative-sort-array) |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0633-sum-of-square-numbers) |
 ## Counting Sort
 |  |
@@ -129,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0633-sum-of-square-numbers](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0633-sum-of-square-numbers) |
 | [0881-boats-to-save-people](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0881-boats-to-save-people) |
