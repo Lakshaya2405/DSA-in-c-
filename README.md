@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0088-merge-sorted-array) |
@@ -188,4 +190,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0075-sort-colors) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
