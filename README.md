@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0496-next-greater-element-i) |
 | [0881-boats-to-save-people](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0881-boats-to-save-people) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/1122-relative-sort-array) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0633-sum-of-square-numbers](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0633-sum-of-square-numbers) |
 | [0881-boats-to-save-people](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0881-boats-to-save-people) |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0011-container-with-most-water) |
+| [0455-assign-cookies](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0881-boats-to-save-people) |
 ## Timsort
 |  |
@@ -190,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0075-sort-colors) |
+| [0455-assign-cookies](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0455-assign-cookies) |
 ## Bubble Sort
 |  |
 | ------- |
