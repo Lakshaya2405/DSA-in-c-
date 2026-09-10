@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0198-house-robber) |
+| [0283-move-zeroes](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0485-max-consecutive-ones) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0350-intersection-of-two-arrays-ii) |
