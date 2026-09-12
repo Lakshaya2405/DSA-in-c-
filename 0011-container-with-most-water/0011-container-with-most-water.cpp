@@ -8,12 +8,7 @@ public:
             long long w = right-left;
             long long b = min(height[left],height[right]);
             maxwater = max(maxwater,w*b);
-            if(height[left]<height[right]){
-                left++;
-            }
-            else{
-                right--;
-            }
+            height[left] < height[right] ? left++ : right--;
         }
         return maxwater;
     }
