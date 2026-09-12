@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0198-house-robber) |
+| [0238-product-of-array-except-self](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -223,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
