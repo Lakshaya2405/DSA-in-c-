@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0509-fibonacci-number) |
@@ -230,4 +231,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0238-product-of-array-except-self) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
