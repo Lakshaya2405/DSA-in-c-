@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0633-sum-of-square-numbers) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Two Pointers
 |  |
 | ------- |
