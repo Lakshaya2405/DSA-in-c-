@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0342-power-of-four) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Sorting
 |  |
 | ------- |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0633-sum-of-square-numbers) |
 | [1323-maximum-69-number](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/1323-maximum-69-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Two Pointers
 |  |
