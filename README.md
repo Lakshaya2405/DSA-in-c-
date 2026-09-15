@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0342-power-of-four) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1486-xor-operation-in-an-array](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/1486-xor-operation-in-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0633-sum-of-square-numbers) |
 | [1323-maximum-69-number](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1486-xor-operation-in-an-array](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/1486-xor-operation-in-an-array) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Two Pointers
 |  |
