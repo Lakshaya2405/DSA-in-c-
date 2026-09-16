@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0258-add-digits) |
+| [0292-nim-game](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0412-fizz-buzz) |
@@ -248,4 +249,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0258-add-digits) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
