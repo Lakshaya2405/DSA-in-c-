@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0415-add-strings) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0709-to-lower-case](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0709-to-lower-case) |
 ## Trie
 |  |
 | ------- |
