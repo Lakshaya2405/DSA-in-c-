@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0415-add-strings) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0709-to-lower-case) |
+| [0844-backspace-string-compare](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0844-backspace-string-compare) |
 ## Trie
 |  |
 | ------- |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0633-sum-of-square-numbers](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0633-sum-of-square-numbers) |
+| [0844-backspace-string-compare](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0977-squares-of-a-sorted-array) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0844-backspace-string-compare) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0844-backspace-string-compare) |
 ## Number Theory
 |  |
 | ------- |
