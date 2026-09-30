@@ -2,7 +2,7 @@ class Solution {
     public:
     int calPoints(vector<string>& operations) {
     stack<int> st;
-    for (auto op : operations) {
+    for (string op : operations) {
         if (op != "+" && op != "D" && op != "C") {
             st.push(stoi(op));
         }
