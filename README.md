@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0344-reverse-string) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0682-baseball-game) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0198-house-robber) |
@@ -291,4 +294,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0084-largest-rectangle-in-histogram) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
