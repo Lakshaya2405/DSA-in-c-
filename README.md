@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0709-to-lower-case) |
 | [0844-backspace-string-compare](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0844-backspace-string-compare) |
 | [2000-reverse-prefix-of-word](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/2000-reverse-prefix-of-word) |
+| [3174-clear-digits](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/3174-clear-digits) |
 ## Trie
 |  |
 | ------- |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0844-backspace-string-compare) |
 | [2000-reverse-prefix-of-word](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/2000-reverse-prefix-of-word) |
+| [3174-clear-digits](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/3174-clear-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0844-backspace-string-compare) |
+| [3174-clear-digits](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/3174-clear-digits) |
 ## Number Theory
 |  |
 | ------- |
