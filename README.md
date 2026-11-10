@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/1486-xor-operation-in-an-array) |
+| [2769-find-the-maximum-achievable-number](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3945-digit-frequency-score](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/3945-digit-frequency-score) |
 ## Two Pointers
