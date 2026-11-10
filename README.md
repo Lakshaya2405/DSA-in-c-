@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2363-merge-similar-items](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/2363-merge-similar-items) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/3483-unique-3-digit-even-numbers) |
+| [3945-digit-frequency-score](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
 | ------- |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/1486-xor-operation-in-an-array) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3945-digit-frequency-score](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/3945-digit-frequency-score) |
 ## Two Pointers
 |  |
 | ------- |
