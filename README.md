@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0041-first-missing-positive) |
 | [0349-intersection-of-two-arrays](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0231-power-of-two) |
