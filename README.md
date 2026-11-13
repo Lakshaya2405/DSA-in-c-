@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0041-first-missing-positive) |
+| [0066-plus-one](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0084-largest-rectangle-in-histogram) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Lakshaya2405/DSA-in-c-/tree/master/0258-add-digits) |
